@@ -8,11 +8,11 @@ En plus d'offir l'opportunité de faire un laboratoire à distance pour remplace
 
 ## Objectifs
 
-Ce laboratoire sera en deux parties et nécessitera deux remises séparées. Dans un premier cas, vous pouvez remettre un court compte rendu sous forme de _Jupyter Notebook_ ou de document texte répondant à des questions posées dans ce présent document en faisant rouler le code donné dans le fichier _premiere_partie.py_ en y apportant votre grain de sel. Ensuite, nous vous invitons à faire votre propre expérience.
+Ce laboratoire sera en deux parties et nécessitera deux remises séparées. Dans un premier cas, vous pouvez remettre un court compte rendu sous forme de _Jupyter Notebook_ ou de document texte répondant à des questions posées dans ce présent document en faisant rouler le code donné dans le fichier _premiere_partie.py_ et en y apportant votre grain de sel. Ensuite, nous vous invitons à faire votre propre expérience.
 
 Dans le but d'introduire ce laboratoire, une démonstration d'utilisation du logiciel sera faite dans le document _demonstration.ipynb_. Celle-ci a pour objectif de montrer, non-seulement comment faire fonctionner le code, mais aussi à introduire de la théorie sur la propagation de l'onde acoustique.
 
-Ensuite, vous développerez une compréhension plus exhaustive de comment _Pyroomacoustics_ effectue ses calculs et ce qu'il prend en compte. Pour ce faire, utilisez _premiere_partie.py_ et modifiez le code pour répondre aux questions dans le fichier _README-1ere.md_ qui l'acompagne.
+Ensuite, vous développerez une compréhension plus exhaustive de comment _Pyroomacoustics_ effectue ses calculs et ce qu'il prend en compte. Pour ce faire, utilisez _premiere_partie.py_ et modifiez le code pour répondre aux questions dans le fichier _questions-1ere-partie.md_.
 
 Par la suite, vous nous vous invitons à vous amuser avec le logiciel, c'est-à-dire, d'explorer un thème qui vous intéresse en lien avec la propagation d'onde acoustique. Voici des idées de thème que vous pouvez aborder:
 
@@ -36,4 +36,6 @@ Vous trouverez dans la documentation sur le package _Pyroomacoustics_ sous forme
 
 De plus, la commande ci-dessous offre de la documentation qui pourrait vous être utile
  
-'print(pra.room.\_\_doc\_\_)'
+'print(pra.room.\_\_doc\_\_)'.
+
+La commade de documentation ci-dessus peut être utilisée pour presque toutes les fonctions dans _Pyroomacoustics_
