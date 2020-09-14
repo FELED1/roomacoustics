@@ -36,4 +36,4 @@ Vous trouverez dans la documentation sur le package _Pyroomacoustics_ sous forme
 
 De plus, la commande ci-dessous offre de la documentation qui pourrait vous être utile
  
-'print(pra.room.__doc__)'
+'print(pra.room.\_\_doc\_\_)'
