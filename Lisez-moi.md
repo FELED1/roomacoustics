@@ -23,3 +23,17 @@ Par la suite, vous nous vous invitons à vous amuser avec le logiciel, c'est-à-
 
 Nous vous invitons surtout à créer vous même une expérience. De plus, la documentation sur _Pyroomacoustics_ donne plein d'exemples de fonctions permettant de faire des analyses poussées. En effet, _Pyroomacoustics_ a été utilisé pour écrire de nombreux articles scientifiques. Nous vous demandons de faire un compte rendu de 2-3 pages incluant des graphiques et des résultats de ce que vous avez fait. N'oubliez pas d'écrire à votre dépanneur (adresse en haut) pour l'informer de votre projet et pour poser vos questions.
 
+# Matériel
+
+Pour effectuer ce laboratoire, vous aurez besoin
+
+ - du logiciel _Python3_,
+ - du package Pyroomacoustics (pip install pyroomacoustics)
+ 
+## Documentation
+
+Vous trouverez dans la documentation sur le package _Pyroomacoustics_ sous forme d'example ici: https://nbviewer.jupyter.org/github/LCAV/pyroomacoustics/blob/master/notebooks/pyroomacoustics_demo.ipynb
+
+De plus, la commande ci-dessous offre de la documentation qui pourrait vous être utile
+ 
+'print(pra.room.__doc__)'
