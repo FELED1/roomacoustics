@@ -1,8 +1,6 @@
 ## Questions premiere partie:
 
-L'objectif et le thème de cette partie est de comprendre comment la simulation fonctionne.
-
-Dans cette partie, utilisez la partie de code ci-dessous inspirée de la documentation _/notebooks/pyroomacoustics_demo.ipynb_ pour répondre aux questions suivantes:
+Dans cette partie, utilisez la partie de code ci-dessous inspirée de la documentation _/notebooks/pyroomacoustics_demo.ipynb_ pour répondre aux questions ci-dessous. Remettez vos réponses à ces questions et votre code sur le site du cours.
 
 1. Calculez le niveau sonore:
    1. Quel est le niveau sonore moyen (en dB) le long de la trace d'entrée et de sortie?
@@ -15,3 +13,4 @@ Dans cette partie, utilisez la partie de code ci-dessous inspirée de la documen
    1. Qu'est-ce l'ordre de l'image?
    2. Dans quelles situations est-ce que le nombre de rayons importe? 
    3. Résumez, dans vos mots, comment fonctionne la simulation.
+
