@@ -13,3 +13,6 @@ Dans cette partie, utilisez la partie de code ci-dessous inspirée de la documen
  
 4. Pourquoi est-ce n'est-il pas recommandé de mettre l'ordre de l'image et le nombre de rayon au maximum? Optimisez les valeurs de ces paramètres. Quels valeurs obtenez-vous?
 5. Résumez, dans vos mots comment fonctionne la simulation.
+
+1. Numbered item
+     1. Substep
