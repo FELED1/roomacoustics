@@ -7,9 +7,11 @@ Dans cette partie, utilisez la partie de code ci-dessous inspirée de la documen
    2. Quelle fraction de l'énergie sonore en disponible transmise entre la source et la réception?
    3. Faites un graphique du niveau sonore (en dB) de la trace de l'entrée et celle de sortie avec un temps d'intégration de 0.1 secondes.
 
-2. À partir de la _RIR_, calculez le RT60. Obtenez-vous le même résultat que lorsque vous entrez 
+2. À partir de la _RIR_, calculez le RT60. Obtenez-vous le même résultat que lorsque vous entrez la commande 
 
-2. Questions sur les simulations:
+3. Faites une transformée de fourier de votre signal de sortie. Dans quelle intervalle de fréquence est-ce que la majorité de votre signal se trouve?
+
+4. Questions sur les simulations:
    1. Qu'est-ce l'ordre de l'image?
    2. Dans quelles situations est-ce que le nombre de rayons importe? 
    3. Résumez, dans vos mots, comment fonctionne la simulation.
