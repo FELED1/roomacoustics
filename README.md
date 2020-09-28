@@ -29,6 +29,7 @@ Pour effectuer ce laboratoire, vous aurez besoin
 
  - du logiciel _Python3_,
  - du package Pyroomacoustics (pip install pyroomacoustics)
+ - Vous aurez aussi besoin de des librarairies données par Visual studio Tools disponible à l'adresse: https://visualstudio.microsoft.com/visual-cpp-build-tools/. Pyroomacoustics utilise des racourcis en C++ pour accélérer les calculs. Le téléchargement peut prendre 30 minutes.
  
 ## Documentation
 
