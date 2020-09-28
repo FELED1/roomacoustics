@@ -5,7 +5,7 @@ Dans cette partie, utilisez la partie de code ci-dessous inspirée de la documen
    1. Quel est le niveau sonore moyen (en dB) le long de la trace d'entrée et de sortie?
    2. Quelle fraction de l'énergie sonore est transmise entre la source et la réception?
    3. Faites un graphique du niveau sonore (en dB) en fonction du temps de la trace de l'entrée et celle de sortie pour un temps d'intégration de 0.1 secondes.
-   4. Si l'incertitude sur une valeur de pression moyenne de 0.3 Pa est de 5% et que le taux d'échantillonage du micro est de 62.5 us$. Quelle est l'incertitude sur le niveau sonore (en dB) si le temps d'intégration est de 0.1s? Qu'en est-il de si le temps d'intégration est de 1s? 
+   4. Si l'incertitude sur une valeur de pression moyenne de 0.3 Pa est de 5% et que le taux d'échantillonage du micro est de 62.5 us (microsecondes). Quelle est l'incertitude sur le niveau sonore (en dB) si le temps d'intégration est de 0.1s? Qu'en est-il de si le temps d'intégration est de 1s? 
 
 2. Décrivez par quelles opérations matématiques il est possible de calculer le RT60.
 
