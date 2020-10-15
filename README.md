@@ -32,11 +32,18 @@ Pour effectuer ce laboratoire, vous aurez besoin
  - Vous aurez aussi besoin de des librarairies données par Visual studio Tools disponible à l'adresse: https://visualstudio.microsoft.com/visual-cpp-build-tools/. Pyroomacoustics utilise des racourcis en C++ pour accélérer les calculs. Le téléchargement peut prendre 30 minutes.
  
 ## Documentation
+Le GitHub monté par les fondateurs de _Pyroomacoustics_ est disponible à l'adresse:
+https://github.com/LCAV/pyroomacoustics
 
 Vous trouverez dans la documentation sur le package _Pyroomacoustics_ sous forme d'example ici: https://nbviewer.jupyter.org/github/LCAV/pyroomacoustics/blob/master/notebooks/pyroomacoustics_demo.ipynb
 
-De plus, la commande ci-dessous offre de la documentation qui pourrait vous être utile
+De plus, la commande ci-dessous offre de la documentation qui pourrait vous être utile:
  
 'print(pra.room.\_\_doc\_\_)'.
 
-La commade de documentation ci-dessus peut être utilisée pour presque toutes les fonctions dans _Pyroomacoustics_
+Finalement, vous pouvez trouver des informations théori
+
+La commade de documentation ci-dessus peut être utilisée pour presque toutes les fonctions dans _Pyroomacoustics_.
+
+Finalement, vous trouverez de l'information théorique sur le calcul fait par le logiciel dans la publication:
+R. Scheibler, I. Dokmanić and M. Vetterli. Raking Echoes in the Time Domain, ICASSP 2015, Brisbane, Australia, 2015.
