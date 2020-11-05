@@ -14,14 +14,7 @@ Dans le but d'introduire ce laboratoire, une démonstration d'utilisation du log
 
 Ensuite, vous développerez une compréhension plus exhaustive de comment _Pyroomacoustics_ effectue ses calculs et ce qu'il prend en compte. Pour ce faire, utilisez _premiere_partie.py_ et modifiez le code pour répondre aux questions dans le fichier _questions-1ere-partie.md_.
 
-Par la suite, vous nous vous invitons à vous amuser avec le logiciel, c'est-à-dire, d'explorer un thème qui vous intéresse en lien avec la propagation d'onde acoustique. Voici des idées de thème que vous pouvez aborder:
-
- - Mesurer coefficients liés à la propagation des ondes acoustiques dans l'air.
- - Comparer vos résultats de simulation à des mesures expérimentales prises à l'aide d'un cellulaire (l'application phyPhox permet de faire l'analyse rapide de plusieurs paramètres notament en acoustique).
- - Dessiner une pièce permettant de porter les fréquences de la voix humaine en atténuant celles des machines environnantes dans un environnement industriel.
- - Élaborer un protocole pour mesurer les coefficients d'absorption et de diffusion d'un mur.
-
-Nous vous invitons surtout à créer vous même une expérience. De plus, la documentation sur _Pyroomacoustics_ donne plein d'exemples de fonctions permettant de faire des analyses poussées. En effet, _Pyroomacoustics_ a été utilisé pour écrire de nombreux articles scientifiques. Nous vous demandons de faire un compte rendu de 2-3 pages incluant des graphiques et des résultats de ce que vous avez fait. N'oubliez pas d'écrire à votre dépanneur (adresse en haut) pour l'informer de votre projet et pour poser vos questions.
+En ce qui concerne la deuxième partie, nous vous invitons à faire une comparaison entre une expérience que vous ferez chez vous comparé à une simulation dans le logiciel. Pour ce faire, vous pouvez faire jouer un son et l'enregistrer sur un téléphone intelligent. Plus de détails vous sont donnés dans la partie _question-2e-partie.md_.
 
 # Matériel
 
