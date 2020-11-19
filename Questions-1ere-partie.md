@@ -11,4 +11,4 @@ Dans cette partie, utilisez la partie de code ci-dessous inspirée de la documen
 
 3. Faites une transformée de fourier de votre signal de sortie. Dans quelle intervalle de fréquence est-ce que la majorité de votre signal se trouve? Est-ce typique d'une voix humaine? Comment faire pour obtenir la fréquence du signal en fonction du temps? (indice: cette fonction s'appelle la "short time fourier transform" ou le spectrogram.
 
-4. Questions sur les simulations: qu'est-ce l'ordre de l'image (img_order) et quelle est son influence sur vos résultats.
+4. Qu'est-ce l'ordre de l'image (img_order) et quelle est son influence sur vos résultats.
